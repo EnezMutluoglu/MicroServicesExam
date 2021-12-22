@@ -9,7 +9,6 @@ public class Configratuon {
     private int minimum;
     private int maximum;
 
-
     public int getMinimum() {
         return minimum;
     }
