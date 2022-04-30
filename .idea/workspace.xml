@@ -10,6 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="20lUnrNOvjEHv3Se81qDwyX9RFd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,7 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Who-Project/selenium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MicroServecesPack" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -39,6 +42,13 @@
       <workItem from="1636621208808" duration="21000" />
       <workItem from="1639138210957" duration="5884000" />
       <workItem from="1639646897942" duration="231000" />
+      <workItem from="1640175146540" duration="127000" />
+      <workItem from="1640180591180" duration="78000" />
+      <workItem from="1640433310238" duration="3485000" />
+      <workItem from="1640449234493" duration="329000" />
+      <workItem from="1640449587193" duration="35000" />
+      <workItem from="1640805381454" duration="25000" />
+      <workItem from="1640942388086" duration="82000" />
     </task>
     <servers />
   </component>
@@ -55,6 +65,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
